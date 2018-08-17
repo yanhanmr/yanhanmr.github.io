@@ -1863,7 +1863,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff40ff;
+  background: #409d1f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3108,8 +3108,8 @@ ul.breadcrumb li+li:last-child {
   }
 }
 * {
-  cursor: url("images/arrow.ani"), auto !important;
+  cursor: url("http://om8u46rmb.bkt.clouddn.com/sword2.ico"), auto !important;
 }
 :active {
-  cursor: url("images/arrow.ani"), auto !important;
+  cursor: url("http://om8u46rmb.bkt.clouddn.com/sword1.ico"), auto !important;
 }
